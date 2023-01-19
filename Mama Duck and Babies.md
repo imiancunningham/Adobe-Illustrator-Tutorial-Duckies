@@ -6,4 +6,5 @@ Here you can name your artwork, set the dimensions of the canvas, and more. For 
 
 
 Starting with the Mama Duck, we'll make two circles for the body and the head. If you don't see the circle tool, it might be hidden under another shape tool. To find it, click and hold on whatever shape tool is on your toolbar and a drop-down of the other tools will appear. 
+
 ![image](https://user-images.githubusercontent.com/122496390/213349252-6a9ddaf6-7fcf-4a4e-b57a-e5928c1a78af.png)![image](https://user-images.githubusercontent.com/122496390/213349482-e0f9c2bd-de1a-49cd-b270-b56e368b2bcf.png)
