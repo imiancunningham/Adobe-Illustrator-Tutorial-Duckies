@@ -8,3 +8,7 @@ Here you can name your artwork, set the dimensions of the canvas, and more. For 
 Starting with the Mama Duck, we'll make two circles for the body and the head. If you don't see the circle tool, it might be hidden under another shape tool. To find it, click and hold on whatever shape tool is on your toolbar and a drop-down of the other tools will appear. 
 
 ![image](https://user-images.githubusercontent.com/122496390/213349252-6a9ddaf6-7fcf-4a4e-b57a-e5928c1a78af.png)![image](https://user-images.githubusercontent.com/122496390/213349675-414ddef9-13fe-42bf-9aca-f25e1a34c1f6.png)
+
+![image](https://user-images.githubusercontent.com/122496390/213350071-3e6ccd76-f8e0-4f64-9a29-bdb256a1ed53.png)
+
+To draw Mama Duck's neck, we'll use the pen tool. The pen tool can take a while to get used to, but it is very powerful.
