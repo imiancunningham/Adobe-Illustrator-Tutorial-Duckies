@@ -11,4 +11,5 @@ Starting with the Mama Duck, we'll make two circles for the body and the head. I
 
 ![image](https://user-images.githubusercontent.com/122496390/213350071-3e6ccd76-f8e0-4f64-9a29-bdb256a1ed53.png)
 
-To draw Mama Duck's neck, we'll use the pen tool. The pen tool can take a while to get used to, but it is very powerful.
+To draw Mama Duck's neck, we'll use the pen tool. The pen tool can take a while to get used to, but it is very powerful for drawing curved lines. First we'll click on the large circle where we want the neck to start. Then as the line follows our cursor we click on where we want the neck to stop at the head, but don't let go! Now we drag the cursor so that the line curves. When you like how it's positioned, let go of the mouse clicker. Now we'll do the same for the other side. (VIDEO???)
+
